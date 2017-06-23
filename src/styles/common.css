@@ -1,0 +1,26 @@
+.lr-diglog .el-dialog__body {
+  padding-top: 10px;
+}
+
+.lr-diglog .el-dialog {
+  width: 450px;
+}
+
+.el-form label {
+  /*text-align: left*/
+}
+button.row {
+  width: 100%
+}
+
+.invisible {
+  display: none
+}
+.el-radio__input.is-checked .el-radio__inner {
+  border-color: #fba214;
+  background: #fba214;
+}
+
+.yue-nav .el-menu .el-menu-item{
+  width: 100%
+}
